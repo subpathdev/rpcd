@@ -40,6 +40,7 @@ To build the daemon, the following prerequisites are needed
 * libx11-dev
 * GNU make
 * A C compiler
+* openssl-dev (if you want to use rpcd-cli)
 
 Once those are met, running `make` in the root directory should suffice to build all the modules.
 
